@@ -1,0 +1,42 @@
+export const sampleItems = [
+  { 
+      id:"12321341" ,
+      title:"the lean startup: How Constant Innovation creates Radically Successful Businesses paperback" ,
+      price: 29.99, 
+      image:"https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SX329_BO1,204,203,200_.jpg" ,
+      rating: 5,
+      featured: true,
+  },
+  {
+      id: "49538094",
+      title: "Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Liter Glass Bowl",
+      price: 239.00,
+      rating: 4,
+      image: "https://kitchenaid-h.assetsadobe.com/is/image/content/dam/global/kitchenaid/countertop-appliance/portable/images/hero-RRK150ER.tif",
+      featured: true,
+  },
+  {
+      id:"4903850",
+      title:"Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor",
+      price:199.99,
+      rating: 3,
+      image: "https://tomstrusted.com/wp-content/uploads/2020/11/samsung-lc49rg90ssuxen-49-curved-led-gaming-monitor-super-ultra-wide-dual.jpg",
+      featured: false,
+  },
+  {
+      id:"23445930",
+      title:"Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric",
+      price:98.99,
+      rating: 4,
+    image: "https://images-na.ssl-images-amazon.com/images/I/6182S7MYC2L._AC_SL1000_.jpg",
+    featured: false,
+  },
+  {
+      id:"3254354345",
+      title:"New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)",
+      price:598.99,
+      rating: 4,
+    image: "https://ss7.vzw.com/is/image/VerizonWireless/ipad-pro-12-9-in-cellular-space-gray-03182020?fmt=pjpg&hei=520&wid=350",
+    featured: false,
+  },
+];
